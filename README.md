@@ -1,0 +1,2 @@
+# flutter_android_local_notification
+安卓本地通知实现，由于不同厂商限制不同部分手机收到通知但是收不到震动和铃声。尝试代码播放通知音的方式来实现
