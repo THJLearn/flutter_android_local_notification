@@ -1,2 +1,16 @@
-# flutter_android_local_notification
-安卓本地通知实现，由于不同厂商限制不同部分手机收到通知但是收不到震动和铃声。尝试代码播放通知音的方式来实现
+# flutter_my_notification_application
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
